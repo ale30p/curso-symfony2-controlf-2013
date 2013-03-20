@@ -1,0 +1,4 @@
+control_f_preuba:
+    resource: "@ControlFPreubaBundle/Resources/config/routing.yml"
+    prefix:   /
+
